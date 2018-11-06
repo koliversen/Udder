@@ -14,6 +14,8 @@
 		13183A9F2192091E005A1C38 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13183A9D2192091E005A1C38 /* LaunchScreen.storyboard */; };
 		13183AAA2192091F005A1C38 /* UdderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13183AA92192091F005A1C38 /* UdderTests.swift */; };
 		13183AB52192091F005A1C38 /* UdderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13183AB42192091F005A1C38 /* UdderUITests.swift */; };
+		13183AC421920A10005A1C38 /* if_chocolate_hearts-02_46543.png in Resources */ = {isa = PBXBuildFile; fileRef = 13183AC221920A10005A1C38 /* if_chocolate_hearts-02_46543.png */; };
+		13183AC521920A10005A1C38 /* if_java-kjava_9342.png in Resources */ = {isa = PBXBuildFile; fileRef = 13183AC321920A10005A1C38 /* if_java-kjava_9342.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		13183AB02192091F005A1C38 /* UdderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UdderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		13183AB42192091F005A1C38 /* UdderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UdderUITests.swift; sourceTree = "<group>"; };
 		13183AB62192091F005A1C38 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		13183AC221920A10005A1C38 /* if_chocolate_hearts-02_46543.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "if_chocolate_hearts-02_46543.png"; sourceTree = "<group>"; };
+		13183AC321920A10005A1C38 /* if_java-kjava_9342.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "if_java-kjava_9342.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +85,8 @@
 				13183AA82192091F005A1C38 /* UdderTests */,
 				13183AB32192091F005A1C38 /* UdderUITests */,
 				13183A922192091D005A1C38 /* Products */,
+				13183AC221920A10005A1C38 /* if_chocolate_hearts-02_46543.png */,
+				13183AC321920A10005A1C38 /* if_java-kjava_9342.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -231,6 +237,8 @@
 			files = (
 				13183A9F2192091E005A1C38 /* LaunchScreen.storyboard in Resources */,
 				13183A9C2192091E005A1C38 /* Assets.xcassets in Resources */,
+				13183AC421920A10005A1C38 /* if_chocolate_hearts-02_46543.png in Resources */,
+				13183AC521920A10005A1C38 /* if_java-kjava_9342.png in Resources */,
 				13183A9A2192091D005A1C38 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
